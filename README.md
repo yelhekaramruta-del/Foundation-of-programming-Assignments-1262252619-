@@ -19,4 +19,6 @@
 * Define a structure for employee details (name, designation, gender, date of joining, salary) and compute total employees, count of male/female, employees with salary above 10,000, and employees with a certain designation of "assistant manager".
 * Write a C function to swap two numbers with and without pointers.
 * Write a C program to copy contents of one file to another using file handling.
-* Write a menu-driven program in C to perform various string operations using in-built functions[FOP(1262252619).docx](https://github.com/user-attachments/files/26865311/FOP.1262252619.docx)
+* Write a menu-driven program in C to perform various string operations using in-built functions 
+
+ALL ASSIGNMENT DOC _ [FOP(1262252619).docx](https://github.com/user-attachments/files/26865311/FOP.1262252619.docx)
